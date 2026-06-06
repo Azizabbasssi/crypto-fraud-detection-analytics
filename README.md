@@ -29,10 +29,11 @@ An investigative framework tracking decentralized network transactions, identify
 
 ---
 
-## 📂 Repository File Blueprint
+## ## 📂 Repository File Blueprint
+*   `stream_processor.py` — Production-grade Python engine that ingests live blockchain ledger events and structures data payloads for database injection.
+*   `index.html` — The interactive tracking interface displaying real-time wallet interaction trees and flagged transaction flows.
 *   `Blockchain_Crypto_Fraud_Detection.docx` — The complete asset tracing investigation report and analytical logs.
 *   `README.md` — Structural technical case blueprint and tracking workflow specifications.
-
 ---
 
 ## 🎯 Strategic Professional Impact
